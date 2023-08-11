@@ -1,0 +1,40 @@
+body {
+    background-color: #E0E0E2;
+    margin: 0; /* To remove default body margin */
+    padding: 0; /* To remove default body padding */
+    font-family: Arial, sans-serif; /* Optional: Choose a suitable font */
+}
+
+.center-text {
+    text-align: center;
+}
+
+#logo {
+    display: block;
+    margin: 0 auto; /* To horizontally center the logo */
+}
+
+h1 {
+    color: #721817;
+    margin-top: 20px; /* Optional: Add some spacing above the heading */
+}
+
+h2 {
+    color: #721817;
+    margin-top: 10px; /* Optional: Add spacing between subheadings and content */
+}
+
+h2 span {
+    color: #FA9F42;
+    font-size: 0.75em;
+}
+
+p {
+    margin-bottom: 15px; /* Optional: Add spacing below paragraphs */
+}
+
+#copyright {
+    padding-top: 12px;
+    font-size: 0.75em;
+    color: #999; /* Optional: Change color to a lighter shade */
+}
